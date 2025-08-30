@@ -1,16 +1,24 @@
-## Hi there 👋
+##Hi, I'm Ammar Ali
 
-<!--
-**ammarali71/ammarali71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | Machine Learning Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about turning data into actionable insights and building intelligent solutions. My work focuses on data analysis, predictive modeling, and visual storytelling to help businesses make informed decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I Do
+
+📊 Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Power BI)
+
+🤖 Machine Learning & AI (Scikit-learn, TensorFlow)
+
+🛠 Python Development for automation & analytics
+
+📂 End-to-End Data Projects from data cleaning to deployment
+
+🚀 Goals
+
+Contribute to open-source projects
+
+Share knowledge through projects and tutorials
+
+Build real-world ML and AI applications
+
