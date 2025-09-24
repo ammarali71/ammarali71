@@ -1,7 +1,7 @@
 # About_Me  
 
-### Hi there, I'm ![Ammar Ali](https://img.shields.io/badge/Ammar%20Ali-1E90FF?style=for-the-badge)
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+### Hi there, I'm [Ammar Ali](https://github.com/your-github-username) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 
