@@ -25,6 +25,7 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 
 Contribute to open-source projects
 
-Share knowledge through projects and tutorials
+📢 *Let’s connect and collaborate on projects that turn data into powerful stories!*  
+
 
 
