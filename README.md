@@ -3,7 +3,7 @@
 # Hi there, i'm Ammar Ali
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ali-488533380/edit/intro/?profileFormEntryPoint=PROFILE_SECTION&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5AsWwQYOS4au7kP5YRvsBA%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ammar-ali-488533380)
 
 
 💻 Data Analyst | Problem Solver 
