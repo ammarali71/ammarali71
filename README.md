@@ -1,6 +1,7 @@
-## About_Me
+## About_Me  
 
-### Hi there, i'm Ammar Ali
+### Hi there, I'm Ammar Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" style="display:inline-block;transform-origin:70% 70%;animation:wave 2s infinite;">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ali-488533380/)
 
