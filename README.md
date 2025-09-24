@@ -1,7 +1,6 @@
 ## About_Me
 
-# Hi there, i'm Ammar Ali
-## 🌐 Connect with Me  
+### Hi there, i'm Ammar Ali
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ali-488533380/)
 
