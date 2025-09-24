@@ -1,6 +1,8 @@
 # About_Me  
 
-### Hi there, I'm <span style="color:#1E90FF;">Ammar Ali</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" style="display:inline-block;transform-origin:70% 70%;animation:wave 2s infinite;">
+### Hi there, I'm ![Ammar Ali](https://img.shields.io/badge/Ammar%20Ali-1E90FF?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+
 
 
 
