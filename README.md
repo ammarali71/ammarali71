@@ -7,12 +7,20 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 ### What I Do
 
 
-📊 **Data Analysis & Visualization** – Python (Pandas, Matplotlib, Seaborn), Excel, Power BI  
+📊 **Data Analysis & Visualization** – Python (Pandas, Matplotlib, Seaborn), Excel, Power BI, Tableau
 🛠 **Python Development** – Automation, ETL pipelines, analytics scripts  
 🗄️ **SQL & Databases** – Data cleaning, transformation, querying  
 📂 **End-to-End Data Projects** – From raw data to dashboards and insights  
 📑 **Documentation & Reporting** – Clear project READMEs and storytelling  
 
+### 🛠 Skills  
+
+**Languages & Tools:**  
+- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🗄️ **SQL** (MySQL, SQLite)  
+- 📊 **Excel** (Formulas, Pivot Tables, Dashboards)  
+- 📈 **Power BI** (DAX, Data Modeling, Interactive Reports)  
+- 📊 **Tableau** (Interactive Visualizations, Storytelling Dashboards) 
  ### Goals
 
 Contribute to open-source projects
