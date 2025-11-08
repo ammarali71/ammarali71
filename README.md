@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 
 ### 🏅 Certifications
 <a href="https://www.credly.com/earner/dashboard">
-  <img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="My Certificate" width="400"/>
+  <img src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="My Certificate" width="300"/>
 </a>
 
 
