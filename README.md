@@ -25,7 +25,8 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 
 ### 🏅 Certifications
 
-![Data Analytics Essentials](https://www.credly.com/earner/dashboard)
+[![My Certificate](https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/earner/dashboard)
+
 
 **Cisco Networking Essentials**  
 Issued by [Cisco](https://www.cisco.com/) through [Credly](https://www.credly.com/)  
