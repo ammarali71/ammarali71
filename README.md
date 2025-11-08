@@ -22,6 +22,16 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 📂 **End-to-End Data Projects** – From raw data to dashboards and insights  
 📑 **Documentation & Reporting** – Clear project READMEs and storytelling  
 
+
+### 🏅 Certifications
+
+![Data Analytics Essentials](https://github.com/yourusername/yourrepo/blob/main/e4f2a0f4-8d26-4afd-a598-b3ce3f6ce4a5.png)
+
+**Cisco Networking Essentials**  
+Issued by [Cisco](https://www.cisco.com/) through [Credly](https://www.credly.com/)  
+[View Credential](https://www.credly.com/earner/dashboard) 
+
+
 ### 🛠 Skills  
 
 **Languages & Tools:**  
